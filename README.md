@@ -1,3 +1,3 @@
 # Dicee-Game
-The Lucky Person Game.
-Game Link : 
+The Lucky Person Game 
+Link : https://farazshafi.github.io/Dicee-Game/
